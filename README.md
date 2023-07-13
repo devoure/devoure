@@ -1,4 +1,11 @@
-### Hi there 👋
+![Profile Banner](https://github.com/devoure/devoure/blob/main/githubbanner.png)
+## Wazzuuuuuup 👋
+## Here lies __Athumani Bakari___, _a friend, developer and pancake maker_
+<details>
+  <summary>Click to reveal my secret</summary>
+  ![meme](https://tenor.com/en-GB/view/i-gotchu-gif-22729913)
+</details>
+
 
 <!--
 **devoure/devoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
