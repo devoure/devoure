@@ -77,16 +77,16 @@ of making software that make a positive difference out there
 
 ## 📊 Stats
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username={devoure}&theme={github})
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=devoure&theme=github)
 <br/>
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={devoure}&theme={github})
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devoure&theme=github)
 <br/>
 
-![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={devoure}&theme={github})
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devoure&theme=github)
 <br/>
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username={devoure}&theme={github})
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devoure&theme=github)
 
 <h3> 😄 Muchas Gracias Aficion </h3>
 
