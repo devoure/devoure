@@ -9,7 +9,7 @@
   <summary>Click to reveal my secret</summary>
 
   >I can center a div 😆 <br/>
-  ![meme](https://tenor.com/en-GB/view/i-gotchu-gif-22729913)
+  ![meme](https://github.com/devoure/devoure/blob/main/i-gotchu.gif)
 </details>
 
 ## 👦 About Me
