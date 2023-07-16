@@ -88,7 +88,10 @@ of making software that make a positive difference out there
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username={devoure}&theme={github})
 
-### 😄 Muchas Gracias Aficion
+<h3> 😄 Muchas Gracias Aficion </h3>
+
+>
+![gif](https://github.com/devoure/devoure/blob/main/siuuu-ronaldo.gif)
 <!--
 **devoure/devoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
