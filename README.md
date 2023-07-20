@@ -75,6 +75,11 @@ of making software that make a positive difference out there
 
 <br />
 
+## 📱 Contact Me
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athman-bakari-ab43a9150/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)](disguisedsandwich@gmail.com)
+
 ## 📊 Stats
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=devoure&theme=github)
