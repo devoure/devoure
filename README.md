@@ -23,9 +23,12 @@ of making software that make a positive difference out there
   <summary>
     What I have done ?
   </summary>
-
-  > I have done projects from online store with python django to deploying a machine learning model that predicts cancer diagnosis with kubernetes and docker.
-  > This can be seen at the github repos and on my portfolio (once its up) 😅
+  
+  > Projects I have recently completed.
+  * [X] ![Full-Stack Blog Application](https://github.com/devoure/soka-blog)
+  * [X] ![Full-Stack Machine Learning Project](https://github.com/devoure/respire)
+  * [X] ![Golang mini projects](https://github.com/devoure/go-mini-projects)
+  * [X] ![Java mini projects](https://github.com/devoure/java-beg)
 </details>
 
 <details>
@@ -33,12 +36,10 @@ of making software that make a positive difference out there
     What I am doing ?
   </summary>
 
-  > I am working currently on a few goals through july-august
-  * [X] Full-Stack Blog Application
+  > I am working currently on a few goals through jan-march
   * [ ] Full-Stack Online Store web app
   * [ ] Full-Stack Social site web app
   * [ ] Full-Stack Chat App
-  * [ ] 11 Golang mini projects 
   
 </details>
 
